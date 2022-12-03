@@ -1,4 +1,4 @@
-# Customer-Segmentation-with-K-Means-Clustering-RFM
+### Customer-Segmentation-with-K-Means-Clustering-RFM
 RFM metriklerine göre K-Means'i kullanarak müşteri segmentasyonu gerçekleştirme.
 # VERİ SETİ HİKAYESİ 
 # Online Retail II isimli veri seti İngiltere merkezli online bir satış mağazasının 
